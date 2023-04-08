@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\WebApplication1",
+    "\\backend\\WebApplication1\\Models"
+  ],
+  "SelectedNode": "\\backend\\WebApplication1\\Models\\MoviesDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
